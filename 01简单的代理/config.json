@@ -1,0 +1,7 @@
+{
+  "port": "2999",
+  "localhost": "192.168.191.1",
+  "map": {
+    "/": "http://www.baidu.com"
+  }
+}
