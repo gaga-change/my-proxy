@@ -1,0 +1,16 @@
+{
+  "name": "server-redirect",
+  "version": "1.0.0",
+  "description": "express重定向案例",
+  "main": "static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "严俊东",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http-proxy-middleware": "^0.17.3",
+    "request": "^2.79.0"
+  }
+}
